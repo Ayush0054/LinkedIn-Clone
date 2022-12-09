@@ -20,10 +20,11 @@ function Widgets() {
         <h2>Linkedin News</h2>
         <InfoIcon/>
       </div>
-      {newsArticle("comeback of Rolando","learn top ways to take penalty from penaldo")}
-      {newsArticle("comeback of Neymar","learn top ways to take freekick from gaymar")}
-      {newsArticle("comeback of  Summon","learn top ways to give opnion on others from Sanmike")}
-      {newsArticle("comeback of Rohit","learn top method to beat women on the internet from Baanji")}
+      {newsArticle("The Full Stack Junkie Is Back", "Top news - 9099 reader")}
+      {newsArticle("Coronavirus: UK updates", "Top news - 886 reader")}
+      {newsArticle("Bitcoin Breaks $22K", "Crypto - 8000 reader")}
+      {newsArticle("JavaScript Mastery", "Code - 120000 reader")}
+      {newsArticle("Tesla hits new highs", "Cars & auto - 300 reader")}
     </div>
   )
 }
