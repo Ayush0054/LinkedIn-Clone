@@ -1,3 +1,9 @@
+Tech Stacks used: React,React-Redux,Material UI,Firebase fireStore,Firebase auth,css Flex,
+
+https://user-images.githubusercontent.com/97244608/206840741-b4501de3-c104-46f0-a350-1113afa7ae14.mp4
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
